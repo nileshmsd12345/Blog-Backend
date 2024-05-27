@@ -40,5 +40,4 @@ This project is a Blog Service built with Spring Boot and SQL. It provides a RES
 - **Maven**: For project management and dependencies.
 - **Lombok**: For reducing boilerplate code.
 
-## Project Structure
 
